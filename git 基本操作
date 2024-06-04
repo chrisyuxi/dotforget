@@ -1,0 +1,15 @@
+git clone url:....
+git checkout -b my-feature
+gi diff
+git add file-name
+git cpmmit
+git push origin my-feature
+git checkout main
+git pull origin master
+git checkout my-feature
+git rebase main
+git push -f origin my-feature
+Squash and merge
+git checkout main
+git branch -D my-feature
+git pull origin master 
