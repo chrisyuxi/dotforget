@@ -1,0 +1,16 @@
+C#
+C# Dev Kit
+.NET Extension Pack
+.NET Install Tool
+Nuget Gallery
+Prettier
+Extension Pack By JosKreativ
+
+dotnet watch run
+
+Microsoft.EntityFrameworkCore.SqlServer 
+Microsoft.EntityFrameworkCore.Tools 
+Microsoft.EntityFrameworkCore.Design 
+
+dotnet ef migrations add Init
+dotnet ef database update
